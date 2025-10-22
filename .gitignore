@@ -1,0 +1,21 @@
+# Gradle build artifacts
+.gradle/
+build/
+bin/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+/tmp/
