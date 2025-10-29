@@ -1,0 +1,17 @@
+# Gradle files
+.gradle/
+build/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+
+# Log files
+*.log
+
+# Newrelic
+newrelic/
